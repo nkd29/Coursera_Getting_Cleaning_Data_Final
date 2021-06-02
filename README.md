@@ -24,7 +24,6 @@
 
 ## Original README.txt from Source copied below, for reference only:
 
-==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
